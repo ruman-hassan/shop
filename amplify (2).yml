@@ -5,7 +5,7 @@ frontend:
     build:
       commands: []
   artifacts:
-    # IMPORTANT - Please verify your build output directory
+    # IMPORTANT - Please verify your build outputdir
     baseDirectory: /
     files:
       - '**/*'
